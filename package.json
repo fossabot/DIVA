@@ -8,6 +8,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "dockerode": "^2.5.7"
+    "dockerode": "^2.5.7",
+    "express": "^4.16.4",
+    "flatted": "^2.0.0"
   }
 }
