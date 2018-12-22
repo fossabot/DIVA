@@ -1,0 +1,13 @@
+{
+  "name": "diva",
+  "version": "1.0.0",
+  "description": "An application for epitaph-ci, the base part of it, deploys into GAE(Google Application Engine)",
+  "main": "index.js",
+  "repository": "git@github.com:epitaph-ci/DIVA.git",
+  "author": "KsRyY <andy200511@126.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dockerode": "^2.5.7"
+  }
+}
